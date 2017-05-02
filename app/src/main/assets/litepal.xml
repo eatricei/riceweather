@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="rice_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.example.swj.riceweather.db.Province"/>
+        <mapping class="com.example.swj.riceweather.db.City"/>
+        <mapping class="com.example.swj.riceweather.db.County"/>
+    </list>
+</litepal>
